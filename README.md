@@ -1,4 +1,4 @@
-<h2 align="center">Olá Mundo! Eu sou João Guilherme 🐉🖖</h2>
+[<h2 align="center">Olá Mundo! Eu sou João Guilherme 🐉🖖</h2>
 
 ###
 
@@ -44,3 +44,4 @@
 <img src="https://raw.githubusercontent.com/JGCotrim/JGCotrim/output/snake.svg" alt="Snake animation" />
 
 ###
+](https://profile-readme-generator.com/result)
