@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Hello World!! <br>Sou João Guilherme 🖖</p>
+<h3 align="left">Hello World!! <br>Sou João Guilherme 🖖</h3>
 
 ###
 
@@ -19,6 +19,10 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<h4 align="left">Sou analista de dados, atuando com foco em extração, análise e visualização de informações para tomada de decisão. Utilizo ferramentas como Power BI e Excel para criar relatórios e dashboards que auxiliam na interpretação dos dados, além de aplicar conhecimentos em SQL e Python para manipulação de grandes volumes de informação. Com experiência prática em transformar dados em insights, procuro sempre explorar novas maneiras de otimizar processos e gerar valor para a equipe. Tenho facilidade de aprendizado, sou proativo e comunicativo, com ótimo desempenho em trabalho em equipe.</h4>
 
 ###
 
@@ -38,19 +42,14 @@
 
 ###
 
-<h4 align="left">Sou analista de dados, atuando com foco em extração, análise e visualização de informações para tomada de decisão. Utilizo ferramentas como Power BI e Excel para criar relatórios e dashboards que auxiliam na interpretação dos dados, além de aplicar conhecimentos em SQL e Python para manipulação de grandes volumes de informação. Com experiência prática em transformar dados em insights, procuro sempre explorar novas maneiras de otimizar processos e gerar valor para a equipe. Tenho facilidade de aprendizado, sou proativo e comunicativo, com ótimo desempenho em trabalho em equipe.</h4>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JGCotrim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JGCotrim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+  <img src="https://streak-stats.demolab.com?user=JGCotrim&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
