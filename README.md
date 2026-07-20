@@ -1,101 +1,87 @@
 <div align="center">
 
-# Olá, eu sou João Guilherme! 🖖
+# João Guilherme
 
-### Analista de Dados | Power BI | SQL | Python | Excel
+**Data Analyst | Power BI | SQL | Python | Excel**
 
-<img src="https://komarev.com/ghpvc/?username=JGCotrim&color=blueviolet&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="Contador de visitas ao perfil" />
+Transformando dados em informações para apoiar decisões estratégicas.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/joaogcotrim/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://www.instagram.com/_cotrim.jg/)
 
 </div>
 
-<br>
-
-<img align="right" width="190" src="https://media.tenor.com/8jWXocjl8dUAAAAi/pokemon-%E5%AF%B6%E5%8F%AF%E5%A4%A2.gif" alt="Pokémon animado" />
+---
 
 ## 👨‍💻 Sobre mim
 
-Sou **Analista de Dados**, com foco na extração, organização, análise e visualização de informações para apoiar a tomada de decisões.
+Sou **Analista de Dados** com experiência em análise, tratamento e visualização de dados.
 
-Utilizo ferramentas como **Power BI** e **Excel** para desenvolver relatórios, indicadores e dashboards. Também aplico conhecimentos em **SQL** e **Python** para consultar, tratar e analisar grandes volumes de dados.
+Atuo desenvolvendo dashboards, relatórios e indicadores utilizando **Power BI**, **Excel**, **SQL** e **Python**, transformando grandes volumes de dados em informações que apoiam a tomada de decisão.
 
-Tenho experiência em transformar dados brutos em informações claras e úteis, buscando continuamente novas formas de automatizar atividades, otimizar processos e gerar valor para as equipes e organizações.
+Tenho interesse em automação de processos, Business Intelligence, Engenharia de Dados e Ciência de Dados.
 
-Sou proativo, comunicativo, colaborativo e tenho facilidade para aprender novas ferramentas e tecnologias.
+---
 
-<br clear="right">
+## 🛠 Tecnologias
 
-## 🌐 Conecte-se comigo
+### Linguagens
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/joaogcotrim/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/_cotrim.jg/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
 
-## 🛠️ Tecnologias e ferramentas
+### Ferramentas
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" title="Python" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" title="Pandas" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy" title="NumPy" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="SQL" title="SQL" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" alt="Anaconda" title="Anaconda" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="Visual Studio Code" title="Visual Studio Code" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter Notebook" title="Jupyter Notebook" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" title="Git" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" title="GitHub" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" title="Linux" />
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
-<br>
+### Data Analytics
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</div>
+<p>
 
-## 📊 Estatísticas do GitHub
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square\&logo=microsoftexcel\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 
-<div align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=JGCotrim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"
-    alt="Estatísticas do GitHub"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGCotrim&layout=compact&langs_count=6&theme=dracula&hide_border=true"
-    alt="Linguagens mais utilizadas"
-  />
-</div>
+</p>
 
-## 📈 Atividade no GitHub
+---
 
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=JGCotrim&theme=dracula&hide_border=true&area=true"
-    alt="Gráfico de atividades no GitHub"
-  />
-</div>
+## 📚 Atualmente estudando
+
+* Engenharia de Dados
+* Machine Learning
+* Automação com Python
+* Power BI Avançado
+* Modelagem de Dados
+
+---
+
+## 🚀 Projetos em destaque
+
+* 📊 Dashboards interativos no Power BI
+* 🐍 Automações utilizando Python
+* 🗄️ Consultas e modelagem em SQL
+* 📈 Análises exploratórias de dados
+* 📑 Relatórios executivos para tomada de decisão
+
+> Em breve, os projetos estarão disponíveis em meus repositórios públicos.
+
+---
+
+## 📫 Contato
+
+* 💼 LinkedIn: https://www.linkedin.com/in/joaogcotrim
+* 📷 Instagram: https://www.instagram.com/_cotrim.jg/
+
+---
 
 <div align="center">
 
-### Transformando dados em informações e informações em decisões. 🚀
-
-<img width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Animação de programação" />
+*"Sem dados, você é apenas mais uma pessoa com opinião."*
+— W. Edwards Deming
 
 </div>
